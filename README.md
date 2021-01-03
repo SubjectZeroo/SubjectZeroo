@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Jafeht
 
 <!--
 **SubjectZeroo/SubjectZeroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubjectZeroo&layout=compact" alt="SubjectZeroo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubjectZeroo&show_icons=true&theme=dracula" alt="SubjectZeroo" />
+</p>
