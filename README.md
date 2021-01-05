@@ -1,6 +1,6 @@
 ### Jafeht Soturno / Web Developer  👋 
 
-Enterprise and creative, focused on creating and programing bew things.
+Enterprise and creative, focused on creating and programing new things.
 
 ### Languages and Tools ⚡:
 
