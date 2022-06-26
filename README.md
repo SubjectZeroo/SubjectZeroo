@@ -1,10 +1,10 @@
-[![Banner](banner_readme.png)](https://jasor.dev)
+<!-- [![Banner](banner_readme.png)](https://jasor.dev) -->
+![Banner](banner_readme.png)
+### Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-### Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+En mi Perfil de Github puedes encontrar información sobre mí y proyectos en los que he trabajado o creado con fines de aprendizaje. La mayoría de ellos tratan sobre tecnologías que más me interesan o estoy aprendiendo.
 
-En mi Perfil de Github puedes encontrar información sobre mí y proyectos en los que he trabajado o creado con fines de aprendizaje. La mayoría de ellos tratan sobre tecnologías que me interesan más.
-
-Me puedes encontrar en [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jsoturno/)
+Otros links donde encontrarme [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jsoturno/)
 
 <!-- [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/) -->
 
