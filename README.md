@@ -8,7 +8,7 @@ Otros links donde encontrarme [![LinkedIn Badge](https://img.shields.io/badge/Li
 
 <!-- [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/) -->
 
-## 🔧 Tenologias y Herramientas
+## 🔧 Tecnologías y Herramientas
 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
